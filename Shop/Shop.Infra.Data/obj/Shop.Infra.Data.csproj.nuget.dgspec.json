@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {}
+    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
+    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
         "projectName": "Shop.Infra.Data",
-        "projectPath": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

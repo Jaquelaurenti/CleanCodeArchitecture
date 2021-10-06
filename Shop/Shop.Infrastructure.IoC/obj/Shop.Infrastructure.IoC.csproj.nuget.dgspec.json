@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {}
+    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
+    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
         "projectName": "Shop.Infrastructure.IoC",
-        "projectPath": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\source\\repos\\Shop\\Shop.Infrastructure.IoC\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
