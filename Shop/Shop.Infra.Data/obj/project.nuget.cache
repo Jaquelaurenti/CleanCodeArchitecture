@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NBt00HquIzSd+JN3GjIxWsaMOYCWSbOUhYyrH9Ef/fYwM09m95zk13JCMi8X9HAqONH2ls8lhRYa77pJovCZGQ==",
+  "dgSpecHash": "xCZlqFqyYFknAmKXazTfYYQa+HUmGl2J1cfbcPeblZ2FCgzlh5UinvrEVebJ1PdL6jkg1jqdfZ+hdH4AncHQfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\60003663\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\60003663\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

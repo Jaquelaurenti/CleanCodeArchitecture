@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Shop.Infra.Data.Context;
+using Shop.Infrastructure.IoC;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +30,13 @@ namespace Shop.Web.Mvc
             {
                 opt.UseSqlServer(Configuration.GetConnectionString("ShopConnection"));
             });
+            RegisterServices(services);
             services.AddControllersWithViews();
+        }
+
+        public static void RegisterServices(IServiceCollection services)
+        {
+            DependecyContainer.RegisterService(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

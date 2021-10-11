@@ -1,17 +1,75 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj": {}
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\Shop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
-        "projectName": "Shop.Domain",
-        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\Shop.Application.csproj",
+        "projectName": "Shop.Application",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\Shop.Application.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectName": "Shop.Domain",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
         "projectName": "Shop.Infra.Data",
-        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +140,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
-                "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj"
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj"
               }
             }
           }
@@ -134,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
         "projectName": "Shop.Infrastructure.IoC",
-        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,7 +215,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\Shop.Application.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Application\\Shop.Application.csproj"
+              },
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj"
+              },
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -169,6 +237,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -188,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj": {
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
         "projectName": "Shop.Web.Mvc",
-        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,11 +286,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj"
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infra.Data\\Shop.Infra.Data.csproj"
               },
-              "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
-                "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj"
+              "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj": {
+                "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Infrastructure.IoC\\Shop.Infrastructure.IoC.csproj"
               }
             }
           }

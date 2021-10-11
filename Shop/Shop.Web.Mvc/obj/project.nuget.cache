@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EBpbXP3afX2Sg2CkVAUJH+hnCvfXb1FSVP6sDsQu/1BtifJ525FpXgjKabTjlG3fD+sGDI7gEX0DjGvx+XLx0g==",
+  "dgSpecHash": "x5Ul4Ms3UcsT69b2B1gFBEehb82Ot/077SKeIEXz9ldennQriyPqM+GinvNwWjQ27sIaq7T1zeN5VTu1X6fpoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Web.Mvc\\Shop.Web.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\60003663\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\60003663\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

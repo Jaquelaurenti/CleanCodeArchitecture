@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4BXuIA3q/Jq24EyuB8R7J4pOPtiSj16C/eiaRz5G9FOMZqHcY5p8vkzANnO4ylHuy0sJ3X0rlMQwGoKIFZ+IQ==",
+  "dgSpecHash": "jN1jViMwmx5ebjyPfmtP/PfOLETvSYVuQg1GLpN7/7SuvGh1zwdqAnQkPqIQNOxssG+wqyPKPFpVsC7BCH/W+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

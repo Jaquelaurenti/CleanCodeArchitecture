@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {}
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+    "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
         "projectName": "Shop.Domain",
-        "projectPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
+        "projectPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\Shop.Domain.csproj",
         "packagesPath": "C:\\Users\\60003663\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\60003663\\Desktop\\LetsCode\\CleanCodeArchitecture\\Shop\\Shop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\60003663\\Desktop\\CleanCodeArchitecture\\Shop\\Shop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\60003663\\AppData\\Roaming\\NuGet\\NuGet.Config",
